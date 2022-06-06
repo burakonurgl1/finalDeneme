@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\bin\Debug\final2Tekrar.exe.config
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\bin\Debug\final2Tekrar.exe
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\bin\Debug\final2Tekrar.pdb
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.Form1.resources
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.Properties.Resources.resources
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.exe
+C:\Users\Burak\source\repos\final2Tekrar\final2Tekrar\obj\Debug\final2Tekrar.pdb
